@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "109354199163",
+    "project_id": "flutterdynamic-d3105",
+    "storage_bucket": "flutterdynamic-d3105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109354199163:android:bd68502ef8b197343d5ade",
+        "android_client_info": {
+          "package_name": "com.example.dynamic_link"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109354199163-l9ptg7h93m4utdjlkuonbcao2ijj0tva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSAGS4EM2Pm4X1kfIg_zwWDscBRcfWBxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109354199163-l9ptg7h93m4utdjlkuonbcao2ijj0tva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "109354199163-mtjcim88q7a68agsk5n1jtlfulr87pfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dynamicLink"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
